@@ -1,0 +1,4 @@
+﻿  lab13.cpp
+C:\Users\Dell\source\repos\lab13\lab13\lab13.cpp(10,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dell\source\repos\lab13\lab13\lab13.cpp(40,13): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+  lab13.vcxproj -> C:\Users\Dell\source\repos\lab13\Debug\lab13.exe
