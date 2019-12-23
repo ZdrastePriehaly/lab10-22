@@ -1,0 +1,8 @@
+﻿  lab19.cpp
+C:\Users\Dell\source\repos\lab19\lab19\lab19.cpp(61,13): warning C4154:  удаление массива; выполнено преобразование к указателю
+C:\Users\Dell\source\repos\lab19\lab19\lab19.cpp(108,13): warning C4154:  удаление массива; выполнено преобразование к указателю
+C:\Users\Dell\source\repos\lab19\lab19\lab19.cpp(142,13): warning C4154:  удаление массива; выполнено преобразование к указателю
+C:\Users\Dell\source\repos\lab19\lab19\lab19.cpp(181,13): warning C4154:  удаление массива; выполнено преобразование к указателю
+C:\Users\Dell\source\repos\lab19\lab19\lab19.cpp(183,18): warning C4101:  a: неиспользованная локальная переменная
+C:\Users\Dell\source\repos\lab19\lab19\lab19.cpp(183,20): warning C4101:  temp: неиспользованная локальная переменная
+  lab19.vcxproj -> C:\Users\Dell\source\repos\lab19\Debug\lab19.exe
