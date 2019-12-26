@@ -83,33 +83,33 @@ int main()
 		cout << b << endl;;
 	
 	}break;
-	case 5: {string fullname;  //C:\music\sheets\notes.mp3
+	case 5: {string name;  //C:\music\sheets\notes.mp3
 		int i;
 		cout << "введите имя файла полное" << endl;
-		cin >> fullname;
-		for (i = fullname.find_last_of(92) + 1; i < fullname.find_last_of('.'); i++)//	Поиск последнего символа, входящего в  
-			cout << fullname[i];
+		cin >> name;
+		for (i = name.find_last_of(92) + 1; i < name.find_last_of('.'); i++)//	Поиск последнего символа, входящего в  
+			cout << name[i];
 		cout << "." << endl;
 	
 	}break;
-	case 6: {string fullname; //C:\music\sheets\notes.mp3
+	case 6: {string s; //C:\music\sheets\notes.mp3
 		int i;
 		cout << "введите имя файла полное" << endl;
-		cin >> fullname;
+		cin >> s;
 		int b = 0;
-		for (i = 0; i < fullname.length(); i++)
+		for (i = 0; i < s.length(); i++)
 		{
-			if (fullname[i] == 92)
+			if (s[i] == 92)
 				b++;
 		}
 		if (b == 1) 
 		{
-			for (i = fullname.find_first_of(92) + 1; i < fullname.find_last_of('.'); i++)
-				cout << fullname[i];
+			for (i = s.find_first_of(92) + 1; i < s.find_last_of('.'); i++)
+				cout << s[i];
 		}
-		else for (i = fullname.find_last_of(92, fullname.find_last_of(92) - 1) + 1; i < fullname.find_last_of(92); i++) //после fullname.find_last_of(92) - 1
+		else for (i = s.find_last_of(92, s.find_last_of(92) - 1) + 1; i < s.find_last_of(92); i++) //после s.find_last_of(92) - 1
 		{
-			cout << fullname[i];
+			cout << s[i];
 		} cout << "." << endl;
 	}break;
 	case 7: {//string s;
