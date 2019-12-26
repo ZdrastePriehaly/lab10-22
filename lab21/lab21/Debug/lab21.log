@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab21.cpp.vcxproj, lab21.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  lab21.cpp
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(19,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(35,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(58,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(77,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(92,45): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(102,17): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(109,47): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(112,81): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dell\source\repos\lab21\lab21\lab21.cpp(121,17): warning C4018:  <: несоответствие типов со знаком и без знака
+  lab21.vcxproj -> C:\Users\Dell\source\repos\lab21\Debug\lab021.cpp.exe
